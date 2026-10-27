@@ -1,0 +1,3 @@
+C:/Users/admin/OneDrive/Desktop/LiminalDirectx/build/CMakeFiles/LiminalMeadow.dir
+C:/Users/admin/OneDrive/Desktop/LiminalDirectx/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/admin/OneDrive/Desktop/LiminalDirectx/build/CMakeFiles/ZERO_CHECK.dir

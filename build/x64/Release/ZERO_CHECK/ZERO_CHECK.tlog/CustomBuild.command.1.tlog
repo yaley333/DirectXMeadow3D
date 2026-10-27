@@ -1,0 +1,10 @@
+^C:\USERS\ADMIN\ONEDRIVE\DESKTOP\LIMINALDIRECTX\BUILD\CMAKEFILES\37B110F6C2E2ACDF04B707397A88A474\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/admin/OneDrive/Desktop/LiminalDirectx -BC:/Users/admin/OneDrive/Desktop/LiminalDirectx/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/admin/OneDrive/Desktop/LiminalDirectx/build/LiminalMeadow.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
