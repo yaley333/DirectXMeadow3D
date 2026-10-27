@@ -2,9 +2,9 @@
 
 Лиминальная лужайка
 
-![Скриншот 1](screens\image1.jpg)
+![Скриншот 1](screens/image1.jpg)
 
-![Скриншот 2](screens\image2.jpg)
+![Скриншот 2](screens/image2.jpg)
 
 # Запустить проект
 
